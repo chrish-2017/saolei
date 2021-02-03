@@ -2,7 +2,7 @@ import { Component } from 'react';
 import './App.css';
 
 // 炸弹总数
-const BUMP_COUNT = 99;
+const BUMP_COUNT = 1;
 // 数组维度
 const DIMESION = 20;
 
